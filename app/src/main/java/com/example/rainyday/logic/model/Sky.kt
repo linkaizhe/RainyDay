@@ -1,6 +1,7 @@
 package com.sunnyweather.android.logic.model
 
-import com.sunnyweather.android.R
+import com.example.rainyday.R
+
 
 class Sky (val info: String, val icon: Int, val bg: Int)
 
